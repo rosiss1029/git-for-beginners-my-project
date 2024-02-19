@@ -1,4 +1,4 @@
 welcome to Myproject!
 
-Author:Rosi
+Author:Rosi Chirino
 twitter:@Rosiiis
