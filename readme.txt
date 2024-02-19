@@ -1,3 +1,1 @@
-welcome to my project!
-Author:Rosi
-Twitter:@Rosisss
+welcome to Myproject!
